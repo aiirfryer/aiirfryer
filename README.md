@@ -1,10 +1,13 @@
 <h3 style="text-align: center;">@AIIRFRYER</h3>
 
 ---
-
+<p style="text-align: center;">
+   
    - 💻 HTML, CSS, Python
    - 📫 zyphuerz@gmail.com
-   - 🇻🇳 viet
+   - ❗ probably wont be here too often
+
+</p>
 
 <!---
 aiirfryer/aiirfryer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
